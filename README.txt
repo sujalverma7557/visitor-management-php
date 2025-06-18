@@ -1,28 +1,33 @@
-# Visitor Management System (PHP + MySQL)
+# 🧾 Visitor Management System (PHP + MySQL)
 
-A web-based application for managing visitor check-ins and check-outs in an organization. Built using PHP, MySQL, HTML, CSS, and JavaScript.
+A web-based visitor management system built using PHP and MySQL. This system helps organizations digitally manage visitor check-ins and check-outs through a secure and easy-to-use interface. Ideal for reception desks, offices, and institutions.
 
-## 🔧 Features
+---
 
-- Visitor check-in/check-out with timestamp
-- Admin login and dashboard
-- View, add, delete, and manage visitor records
-- Print visitor passes
-- Responsive UI design
-- Secure with session-based authentication
+## 🚀 Live Demo
+
+> _Coming Soon_ (Optional: You can host it on 000webhost or InfinityFree and paste the URL here)
+
+---
+
+## 📌 Features
+
+- ✅ Visitor check-in and check-out
+- 🔐 Admin login and authentication
+- 📋 View, update, and delete visitor records
+- 🖨️ Print visitor details or pass
+- 📱 Responsive user interface using Bootstrap
+- 💾 MySQL integration for persistent data storage
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: PHP
-- **Database**: MySQL
+| Category    | Technology                    |
+|-------------|-------------------------------|
+| **Frontend**| HTML, CSS, JavaScript, Bootstrap |
+| **Backend** | PHP                           |
+| **Database**| MySQL                         |
+| **Tools**   | XAMPP / phpMyAdmin, VS Code   |
 
-## 📸 Screenshots
-
-_Add screenshots here (optional)_
-
-## 🚀 How to Run Locally
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/sujalverma7557/visitor-management-php.git
+---
